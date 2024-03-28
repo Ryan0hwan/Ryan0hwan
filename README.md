@@ -1,7 +1,7 @@
 # 안녕하세요. 성장하는 백엔드 개발자 허영환입니다.*
 
 ## Education
-* Hongik univ. industrial&data engineering / computer engineering (double major)
+* Hongik univ. Industrial&data Engineering / Computer Engineering (Double Major)
 
 ## Grade
 
