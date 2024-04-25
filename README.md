@@ -13,7 +13,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=namu3864)](https://solved.ac/namu3864)
 
-![Ryan0hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0hwan&show_icons=true)
+[![Ryan0hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0hwan&show_icons=true)](https://github-readme-streak-stats.herokuapp.com/?user=Ryan0hwan&theme=highcontrast&hide_border=true)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
