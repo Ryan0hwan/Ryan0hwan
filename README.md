@@ -25,7 +25,7 @@
 
 ## backjoon tier
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{namu3864})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={namu3864})](https://solved.ac/{namu3864})
 
 ## activity
 
