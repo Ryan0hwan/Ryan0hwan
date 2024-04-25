@@ -1,4 +1,4 @@
-# 안녕하세요. 성장하는 백엔드 개발자 허영환입니다.*
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ## Education
 * Hongik univ. Industrial&data Engineering / Computer Engineering (Double Major)
@@ -24,7 +24,8 @@
 ![Ryan0hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan0hwan&show_icons=true)
 
 ## backjoon tier
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=namu3864)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{namu3864})
 
 ## activity
 
