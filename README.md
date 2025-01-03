@@ -1,16 +1,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ## 📅 History
-* 홍익대학교 산업데이터공학과 / 컴퓨터공학과(복수전공) (2018.03 ~ 25.02)
-* 홍익대학교 컴퓨터공학과 개발동아리 GDSC (2024.03 ~ )
-* 'stickareer'취업정보 웹사이트 프로젝트 (2024.03 ~ )
-* LSTM모델 개발을 통한 농산물 가격예측 프로젝트 (2024.03 ~ )
+* 홍익대학교 산업데이터공학과 / 컴퓨터공학과(복수전공) (2018.03 ~ 25.07)
+* 홍익대학교 컴퓨터공학과 개발동아리 GDSC (2024.03 ~ 2024.12)
+* 인공신경망 개발을 통한 농산물 가격예측 프로젝트 (2024.03 ~ 2024.12)
 
 ## ✅ Certificate
 * 오픽 IH
 * 정보처리기사
 * SQLD
-* 한국사능력검정시험 1급
+* 투자자산운용사
   
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=namu3864)](https://solved.ac/namu3864)
