@@ -9,7 +9,11 @@
 * 오픽 IH
 * 정보처리기사
 * SQLD
+* ADSP
+* 컴퓨터활용능력 2급
+* 한국사검정시험 1급
 * 투자자산운용사
+* ITK 아래한글 A등급
   
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=namu3864)](https://solved.ac/namu3864)
