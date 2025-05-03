@@ -20,7 +20,7 @@
 ## 🎯 Other Experience
 * 홍익대학교 경영대학 모의투자대회 (25.05.01 ~ 25.06.13)  
 * 금융사관학교 (25.05.12 ~ 25.06.02)   
-
+  
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=namu3864)](https://solved.ac/namu3864)
 
