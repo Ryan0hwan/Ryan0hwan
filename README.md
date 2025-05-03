@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ryan0hwan/Ryan0hwan)](#)
-
-
 ## 📅 History
 * 홍익대학교 산업데이터공학과 / 컴퓨터공학과(복수전공) (18.03 ~ 25.07)
 * 홍익대학교 컴퓨터공학과 개발동아리 GDSC (24.03 ~ 24.12)
