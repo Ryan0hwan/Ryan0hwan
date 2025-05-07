@@ -5,7 +5,6 @@
 * 유튜버 '코딩알려주는누나' HTML-CSS스터디 (24.06)
 * Winter ICPC Sinchon Algorithm Camp (25.01 ~ 25.02)
 * 홍익대학교 홈페이지 크롭 확장앱 프로젝트 (25.03 ~ 25.04)
-* SSAFY 14기 (25.07 ~ 26.06)
 
 ## ✅ Certificate
 * 오픽 IH
@@ -16,12 +15,6 @@
 * 한국사검정시험 1급
 * 투자자산운용사
 * ITK 아래한글 A등급
-  
-## 🎯 Other Experience
-* 공정과정 속 포장, 운송 공정 개선 프로젝트(21.03 ~ 21.06)
-* 휴대폰 충전기 어댑터의 개선된 프로토타입 제안 프로젝트(21.09 ~ 21.12)
-* 공공데이터를 이용한 따릉이 자전거 불량률 신뢰도 분석(22.09 ~ 22.12)
-* 홍익대학교 경영대학 모의투자대회 (24.05 ~ 24.06 / 25.05 ~ 25.06)  
   
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=namu3864)](https://solved.ac/namu3864)
@@ -57,3 +50,9 @@
   <img src="https://img.shields.io/badge/kubernates-F05032?style=for-the-badge&logo=kubernates&logoColor=white">
   <br>
 </div>
+
+## 🎯 Other Experience
+* 공정과정 속 포장, 운송 공정 개선 프로젝트(21.03 ~ 21.06)
+* 휴대폰 충전기 어댑터의 개선된 프로토타입 제안 프로젝트(21.09 ~ 21.12)
+* 공공데이터를 이용한 따릉이 자전거 불량률 신뢰도 분석(22.09 ~ 22.12)
+* 홍익대학교 경영대학 모의투자대회 (24.05 ~ 24.06 / 25.05 ~ 25.06)  
