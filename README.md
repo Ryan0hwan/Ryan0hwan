@@ -1,16 +1,17 @@
 ## 📅 History
 * 홍익대학교 산업데이터공학과 / 컴퓨터공학과(복수전공) (18.03 ~ 25.07)
 * 홍익대학교 컴퓨터공학과 개발동아리 GDSC (24.03 ~ 24.12)
-* 인공신경망 개발을 통한 농산물 가격예측 프로젝트 (24.03 ~ 24.12)
-* 유튜버 '코딩알려주는누나' HTML-CSS스터디 (24.06)
+* [인공신경망 개발을 통한 농산물 가격예측 프로젝트](https://github.com/Ryan0hwan/predictfarm.git) (24.03 ~ 24.12)
+* [유튜버 '코딩알려주는누나' HTML-CSS스터디](https://github.com/Ryan0hwan/HTML-CSS-STUDY.git) (24.06)
 * Winter ICPC Sinchon Algorithm Camp (25.01 ~ 25.02)
-* 홍익대학교 홈페이지 크롭 확장앱 프로젝트 (25.03 ~ 25.04)
+* [홍익대학교 홈페이지 크롭 확장앱 프로젝트](https://github.com/Ryan0hwan/Hongik-hompage-helper.git) (25.03 ~ 25.04)
 
 ## ✅ Certificate
 * 오픽 IH
 * 정보처리기사
 * SQLD
 * ADSP
+* 리눅스마스터 1급
 * 컴퓨터활용능력 2급
 * 한국사검정시험 1급
 * 투자자산운용사
