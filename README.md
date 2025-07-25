@@ -7,14 +7,10 @@
 * [홍익대학교 홈페이지 크롭 확장앱 프로젝트](https://github.com/Ryan0hwan/Hongik-hompage-helper.git) (25.03 ~ 25.04)
 
 ## ✅ Certificate
-* 오픽 IH
 * 정보처리기사
 * SQLD
 * ADSP
-* 리눅스마스터 1급
 * 컴퓨터활용능력 2급
-* 한국사검정시험 1급
-* 투자자산운용사
 * ITK 아래한글 A등급
   
 ---
